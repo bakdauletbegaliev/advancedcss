@@ -20,4 +20,4 @@ This project demonstrates modern layout techniques using CSS Flexbox and Grid. I
 ## 📁 How to Run
 1. Clone this repository:
    ```bash
-  https://bakdauletbegaliev.github.io/advancedcss/
+   https://bakdauletbegaliev.github.io/advancedcss/
